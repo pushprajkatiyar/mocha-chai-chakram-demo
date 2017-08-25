@@ -2,8 +2,9 @@
  * Created by pushp.katiyar on 8/25/2017.
  */
 
-
+var  mocha = require("mocha");
 var chakram = require("chakram");
+var chai = require("chai");
 
 var expect = chakram.expect;
 describe("HTTP assertions", function () {
