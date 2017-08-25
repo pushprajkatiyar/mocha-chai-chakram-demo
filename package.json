@@ -1,0 +1,11 @@
+{
+  "name": "mochaTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chakram": "^1.5.0"
+  }
+}
